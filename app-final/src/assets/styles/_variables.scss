@@ -1,0 +1,16 @@
+$color-primary: hsl(204, 94%, 27%);
+$color-secondary: rgb(0, 247, 255);
+$color-tertiary: hsl(182, 94%, 33%);
+$color-warning: hsl(209, 99%, 27%) !default;
+
+$background-color:  rgba(119, 111, 111, 0.89) ;
+
+$font-family: 'Playfair Display', serif;
+$font-size: 17px;
+$font-color: rgb(255, 255, 255);
+$font-color-light: rgb(0, 0, 0);
+
+$header-height: 88px;
+
+$workarea-background-color: rgba(2, 0, 23, 0.75);
+$workarea-min-height: calc(100vh - 136px);
